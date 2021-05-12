@@ -1,2 +1,2 @@
-# nnk-app-wallet
-NNK Application and Wallet 
+# nnk-desktop-app
+NNK Desktop Application and Wallet 
